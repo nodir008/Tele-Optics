@@ -1,0 +1,11 @@
+.link {
+    display: flex;
+    width: 186px;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
